@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Suma_de_dos_numeros_en_Form_VB.NET_Framework
+</name>
+</assembly>
+<members>
+<member name="T:Suma_de_dos_numeros_en_Form_VB.NET_Framework.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Suma_de_dos_numeros_en_Form_VB.NET_Framework.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Suma_de_dos_numeros_en_Form_VB.NET_Framework.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

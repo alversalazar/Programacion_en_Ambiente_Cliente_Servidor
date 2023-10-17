@@ -1,0 +1,14 @@
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\bin\Debug\net6.0\Suma de dos numeros .NET en C#.exe
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\bin\Debug\net6.0\Suma de dos numeros .NET en C#.deps.json
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\bin\Debug\net6.0\Suma de dos numeros .NET en C#.runtimeconfig.json
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\bin\Debug\net6.0\Suma de dos numeros .NET en C#.dll
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\bin\Debug\net6.0\Suma de dos numeros .NET en C#.pdb
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\obj\Debug\net6.0\Suma de dos numeros .NET en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\obj\Debug\net6.0\Suma de dos numeros .NET en C#.AssemblyInfoInputs.cache
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\obj\Debug\net6.0\Suma de dos numeros .NET en C#.AssemblyInfo.cs
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\obj\Debug\net6.0\Suma de dos numeros .NET en C#.csproj.CoreCompileInputs.cache
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\obj\Debug\net6.0\Suma de dos numeros .NET en C#.dll
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\obj\Debug\net6.0\refint\Suma de dos numeros .NET en C#.dll
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\obj\Debug\net6.0\Suma de dos numeros .NET en C#.pdb
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\obj\Debug\net6.0\Suma de dos numeros .NET en C#.genruntimeconfig.cache
+C:\Users\ALVER\source\repos\Suma de dos numeros .NET en C#\Suma de dos numeros .NET en C#\obj\Debug\net6.0\ref\Suma de dos numeros .NET en C#.dll

@@ -1,0 +1,14 @@
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\bin\Debug\net6.0\Suma de dos numeros consola VB en .NET.exe
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\bin\Debug\net6.0\Suma de dos numeros consola VB en .NET.deps.json
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\bin\Debug\net6.0\Suma de dos numeros consola VB en .NET.runtimeconfig.json
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\bin\Debug\net6.0\Suma de dos numeros consola VB en .NET.dll
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\bin\Debug\net6.0\Suma de dos numeros consola VB en .NET.pdb
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\obj\Debug\net6.0\Suma de dos numeros consola VB en .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\obj\Debug\net6.0\Suma de dos numeros consola VB en .NET.AssemblyInfoInputs.cache
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\obj\Debug\net6.0\Suma de dos numeros consola VB en .NET.AssemblyInfo.vb
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\obj\Debug\net6.0\Suma de dos numeros consola VB en .NET.vbproj.CoreCompileInputs.cache
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\obj\Debug\net6.0\Suma de dos numeros consola VB en .NET.dll
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\obj\Debug\net6.0\refint\Suma de dos numeros consola VB en .NET.dll
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\obj\Debug\net6.0\Suma de dos numeros consola VB en .NET.pdb
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\obj\Debug\net6.0\Suma de dos numeros consola VB en .NET.genruntimeconfig.cache
+C:\Users\ALVER\source\repos\Suma de dos numeros consola VB en .NET\Suma de dos numeros consola VB en .NET\obj\Debug\net6.0\ref\Suma de dos numeros consola VB en .NET.dll

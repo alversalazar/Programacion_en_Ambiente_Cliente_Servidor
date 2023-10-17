@@ -1,0 +1,16 @@
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\bin\Debug\net6.0-windows\Suma de dos numeros en c# .NET.exe
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\bin\Debug\net6.0-windows\Suma de dos numeros en c# .NET.deps.json
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\bin\Debug\net6.0-windows\Suma de dos numeros en c# .NET.runtimeconfig.json
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\bin\Debug\net6.0-windows\Suma de dos numeros en c# .NET.dll
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\bin\Debug\net6.0-windows\Suma de dos numeros en c# .NET.pdb
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\obj\Debug\net6.0-windows\Suma_de_dos_numeros_en_c__.NET.Form1.resources
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\obj\Debug\net6.0-windows\Suma de dos numeros en c# .NET.csproj.GenerateResource.cache
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\obj\Debug\net6.0-windows\Suma de dos numeros en c# .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\obj\Debug\net6.0-windows\Suma de dos numeros en c# .NET.AssemblyInfoInputs.cache
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\obj\Debug\net6.0-windows\Suma de dos numeros en c# .NET.AssemblyInfo.cs
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\obj\Debug\net6.0-windows\Suma de dos numeros en c# .NET.csproj.CoreCompileInputs.cache
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\obj\Debug\net6.0-windows\Suma de dos numeros en c# .NET.dll
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\obj\Debug\net6.0-windows\refint\Suma de dos numeros en c# .NET.dll
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\obj\Debug\net6.0-windows\Suma de dos numeros en c# .NET.pdb
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\obj\Debug\net6.0-windows\Suma de dos numeros en c# .NET.genruntimeconfig.cache
+C:\Users\ALVER\source\repos\Suma de dos numeros en c# .NET\Suma de dos numeros en c# .NET\obj\Debug\net6.0-windows\ref\Suma de dos numeros en c# .NET.dll

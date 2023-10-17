@@ -1,0 +1,7 @@
+C:\Users\ALVER\source\repos\Suma de dos numeros\Suma de dos numeros\bin\Debug\Suma de dos numeros.exe.config
+C:\Users\ALVER\source\repos\Suma de dos numeros\Suma de dos numeros\bin\Debug\Suma de dos numeros.exe
+C:\Users\ALVER\source\repos\Suma de dos numeros\Suma de dos numeros\bin\Debug\Suma de dos numeros.pdb
+C:\Users\ALVER\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Debug\Suma de dos numeros.csproj.AssemblyReference.cache
+C:\Users\ALVER\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Debug\Suma de dos numeros.csproj.CoreCompileInputs.cache
+C:\Users\ALVER\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Debug\Suma de dos numeros.exe
+C:\Users\ALVER\source\repos\Suma de dos numeros\Suma de dos numeros\obj\Debug\Suma de dos numeros.pdb
