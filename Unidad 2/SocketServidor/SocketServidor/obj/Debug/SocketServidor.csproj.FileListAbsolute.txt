@@ -1,0 +1,7 @@
+C:\Users\ALVER\source\repos\SocketServidor\SocketServidor\bin\Debug\SocketServidor.exe.config
+C:\Users\ALVER\source\repos\SocketServidor\SocketServidor\bin\Debug\SocketServidor.exe
+C:\Users\ALVER\source\repos\SocketServidor\SocketServidor\bin\Debug\SocketServidor.pdb
+C:\Users\ALVER\source\repos\SocketServidor\SocketServidor\obj\Debug\SocketServidor.csproj.AssemblyReference.cache
+C:\Users\ALVER\source\repos\SocketServidor\SocketServidor\obj\Debug\SocketServidor.csproj.CoreCompileInputs.cache
+C:\Users\ALVER\source\repos\SocketServidor\SocketServidor\obj\Debug\SocketServidor.exe
+C:\Users\ALVER\source\repos\SocketServidor\SocketServidor\obj\Debug\SocketServidor.pdb
