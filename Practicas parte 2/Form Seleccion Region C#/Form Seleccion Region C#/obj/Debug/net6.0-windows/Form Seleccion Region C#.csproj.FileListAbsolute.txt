@@ -1,0 +1,43 @@
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Form Seleccion Region C#.exe
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Form Seleccion Region C#.deps.json
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Form Seleccion Region C#.runtimeconfig.json
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Form Seleccion Region C#.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Form Seleccion Region C#.pdb
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\Form Seleccion Region C#.csproj.AssemblyReference.cache
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\Form_Seleccion_Region_C_.Form1.resources
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\Form_Seleccion_Region_C_.Properties.Resources.resources
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\Form Seleccion Region C#.csproj.GenerateResource.cache
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\Form Seleccion Region C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\Form Seleccion Region C#.AssemblyInfoInputs.cache
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\Form Seleccion Region C#.AssemblyInfo.cs
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\Form Seleccion Region C#.csproj.CoreCompileInputs.cache
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\Form Seleccion Region C#.csproj.CopyComplete
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\Form Seleccion Region C#.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\refint\Form Seleccion Region C#.dll
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\Form Seleccion Region C#.pdb
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\Form Seleccion Region C#.genruntimeconfig.cache
+C:\Users\ALVER\source\repos\Form Seleccion Region C#\Form Seleccion Region C#\obj\Debug\net6.0-windows\ref\Form Seleccion Region C#.dll
