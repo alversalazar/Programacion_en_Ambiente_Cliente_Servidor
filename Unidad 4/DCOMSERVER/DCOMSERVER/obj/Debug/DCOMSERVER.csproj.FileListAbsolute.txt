@@ -1,0 +1,6 @@
+C:\Users\ALVER\source\repos\DCOMSERVER\DCOMSERVER\bin\Debug\DCOMSERVER.dll
+C:\Users\ALVER\source\repos\DCOMSERVER\DCOMSERVER\bin\Debug\DCOMSERVER.pdb
+C:\Users\ALVER\source\repos\DCOMSERVER\DCOMSERVER\obj\Debug\DCOMSERVER.csproj.AssemblyReference.cache
+C:\Users\ALVER\source\repos\DCOMSERVER\DCOMSERVER\obj\Debug\DCOMSERVER.csproj.CoreCompileInputs.cache
+C:\Users\ALVER\source\repos\DCOMSERVER\DCOMSERVER\obj\Debug\DCOMSERVER.dll
+C:\Users\ALVER\source\repos\DCOMSERVER\DCOMSERVER\obj\Debug\DCOMSERVER.pdb
